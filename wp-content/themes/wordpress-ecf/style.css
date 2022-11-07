@@ -1,0 +1,7 @@
+/*
+Theme Name: Wordpress ECF
+ */
+
+@import 'assets/css/reset.css';
+@import 'assets/css/global.css';
+@import 'assets/css/wp-blocks/wp-blocks.css';
